@@ -1,0 +1,129 @@
+.top-container{
+    background-color: #EAF6F6;
+    padding: 50px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.first-cloud
+{
+    margin-left: 750px;
+}
+
+h1{
+    margin-left: 475px;
+    color: #66BFBF;
+}
+
+h2{
+    margin-left: 475px;
+    color: #66BFBF;
+}
+
+h3{
+    margin-left: 475px;
+    color: #11999E;
+}
+
+.second-cloud
+{
+    position: absolute;
+    margin-left: 200px;
+    display: block;
+}
+
+.mountain{
+    margin-left: 300px;
+}
+
+.profile{
+    margin-left: 425px;
+}
+
+p{
+    text-align: center;
+    width: 500px;
+    margin-left: 300px;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 100px;
+    margin-right: 670px;
+    color: #EAF6F6;
+}
+
+.computer{
+    float: left;
+    width: 10%;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+
+.chillies{
+    float: right;
+    width: 10%;
+    border-radius: 25px;
+    margin-right: 150px;
+}
+
+.submit{
+    color: aquamarine;
+    margin-left: 50%;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.hyperlink{
+    color:  #11999E;
+    padding-left: 20%;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 40%;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #275370);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #275370);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #275370);
+    background-image: -o-linear-gradient(top, #3cb0fd, #275370);
+    background-image: linear-gradient(to bottom, #3cb0fd, #275370);
+    text-decoration: none;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+  a:hover{
+    color:#EAF6F6
+  }
+
+  .copyright{
+      color: #EAF6F6;
+  }

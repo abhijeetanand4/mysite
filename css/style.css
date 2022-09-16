@@ -1,0 +1,54 @@
+body{
+    background-color: #FA9A94;
+    margin: 0;
+    text-align:center;
+}
+
+div{
+    background-color: #FFCC7C;
+    margin: 0;
+}
+
+h1 {
+    
+    font-family: Montserrat, sans-serif;
+    font-size: 5.625rem;
+    margin: 0 auto 0 auto;
+}
+
+.bottom-cloud{
+    position:absolute;
+}
+
+.top-cloud{
+    position: relative;
+    margin-left: 400px;
+}
+
+.job{
+    font-size: 2.5rem;
+}
+
+h3, a{
+    color: #11999E;
+}
+
+h1, h2, p{
+    color: #66BFBF;
+}
+
+a:hover{
+    color:#374e4e;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+
+.my-skills{
+    width: 25%;
+    float: left;
+}
